@@ -12,8 +12,7 @@ class Solution {
         for(int i=0;i<n;i++)
         {
             max=Math.max(max,nums[i]);
-            int In_score=max-suffix[i];
-            if(In_score <=k) 
+            if(max-suffix[i] <= k) 
                 return i;
         }
         return -1;
