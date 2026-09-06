@@ -1,24 +1,20 @@
 class Solution {
     public String countAndSay(int n) {
-        String res="1";
-        for(int i=1;i<n;i++)
-        {
-            res=buildNext(res);
-        }
-        return res;
-    }
-    public String buildNext(String s){
-        StringBuilder ans=new StringBuilder();
+        if(n==1) return "1";
+
+        String prev=countAndSay(n-1);
+        StringBuilder res = new StringBuilder();
         int count=1;
-        for(int i=1;i<s.length();i++)
+        for(int i=0;i<prev.length();i++)
         {
-            if(s.charAt(i)==s.charAt(i-1)) count++;
+            if(i+1<prev.length() && prev.charAt(i)==prev.charAt(i+1)){
+                count ++;
+            }
             else{
-                ans.append(count).append(s.charAt(i-1));
+                res.append(count).append(prev.charAt(i));
                 count=1;
             }
         }
-        ans.append(count).append(s.charAt(s.length()-1));
-        return ans.toString();
+        return res.toString();
     }
 }
