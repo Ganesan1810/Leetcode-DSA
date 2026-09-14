@@ -19,8 +19,8 @@ class Solution {
             return;
         list.add(new int[] {c,r,root.val});
 
-        dfs(root.left,r+1,c-1,list); // move left node
-        dfs(root.right,r+1,c+1,list); // move right node 
+        dfs(root.left,r+1,c-1,list);   //..> move left node
+        dfs(root.right,r+1,c+1,list);  //..> move right node 
     }
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         
@@ -35,13 +35,14 @@ class Solution {
 
         ArrayList<List<Integer>> ans = new ArrayList<>();
         int col = Integer.MIN_VALUE;
-        // column change ana new Arraylist create pannanum
-        for(int[] n:nodes){
+                              
+        for(int[] n:nodes)   //..> column change ana new Arraylist create pannanum
+        {
             if(n[0]!=col){
                 ans.add(new ArrayList<>());
                 col=n[0];
             }
-            ans.get(ans.size()-1).add(n[2]); // 
+            ans.get(ans.size()-1).add(n[2]); 
 
         }
         return ans;
