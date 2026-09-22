@@ -148,6 +148,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -156,6 +157,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -177,4 +179,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
