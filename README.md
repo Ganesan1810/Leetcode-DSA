@@ -150,6 +150,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,4 +185,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 <!---LeetCode Topics End-->
