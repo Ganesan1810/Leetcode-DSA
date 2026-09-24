@@ -151,6 +151,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +190,12 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
