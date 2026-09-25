@@ -5,8 +5,8 @@ class Solution {
             return n;
         while((1<<bit) <= n) 
             bit++;
-        int zero = minimumOneBitOperations (n - (1 << bit-1));
-        return ((1<<bit) - 1) - zero;
+        int min_op = minimumOneBitOperations (n - (1 << bit-1));
+        return ((1<<bit) - 1) - min_op;
         
         
     }
