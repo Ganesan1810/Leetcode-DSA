@@ -1,5 +1,6 @@
 class Solution {
     public int maxEqualAdjacentPairs(int[] nums) {
+        
         HashMap<String,Integer> freq = new HashMap<>();
         int pairs=0 , max_pairs=0;
         int n=nums.length;
