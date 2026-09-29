@@ -197,6 +197,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -214,4 +215,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
