@@ -219,4 +219,9 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 <!---LeetCode Topics End-->
