@@ -148,6 +148,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -206,6 +207,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
