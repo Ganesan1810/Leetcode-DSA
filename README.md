@@ -148,6 +148,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -227,6 +228,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
