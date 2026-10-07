@@ -151,6 +151,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0001-two-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -160,6 +161,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
