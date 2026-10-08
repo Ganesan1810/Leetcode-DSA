@@ -245,4 +245,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1795-rearrange-products-table](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1795-rearrange-products-table/) | Easy |
 <!---LeetCode Topics End-->
