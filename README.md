@@ -153,6 +153,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -245,6 +246,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
