@@ -255,6 +255,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [1393-capital-gainloss](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1393-capital-gainloss/) | Medium |
 | [1795-rearrange-products-table](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
