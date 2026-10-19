@@ -7,7 +7,6 @@ class Solution {
     }
     public String firstPalindrome(String[] words) {
         int n=words.length;
-        int found=0;
         for(int i=0;i<n;i++)
         {
             if(ispalindrome(words[i]))
@@ -15,8 +14,6 @@ class Solution {
                 return words[i];
             }
         }
-        
         return "";
-
     }
 }
