@@ -161,6 +161,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2942-find-words-containing-character/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,6 +239,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
