@@ -203,6 +203,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -222,6 +223,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
