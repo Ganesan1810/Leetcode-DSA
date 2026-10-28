@@ -153,6 +153,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -226,6 +227,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -289,4 +291,5 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
