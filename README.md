@@ -267,6 +267,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Database
@@ -292,4 +293,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
