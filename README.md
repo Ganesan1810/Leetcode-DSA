@@ -167,6 +167,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2942-find-words-containing-character/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -257,6 +258,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
