@@ -161,6 +161,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -181,6 +182,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Heap (Priority Queue)
@@ -271,6 +273,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -281,10 +284,12 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -299,4 +304,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0278-first-bad-version/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
