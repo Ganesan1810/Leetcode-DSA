@@ -216,6 +216,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0338-counting-bits](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
@@ -238,6 +239,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
+| [0338-counting-bits](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
