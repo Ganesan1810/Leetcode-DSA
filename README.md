@@ -170,6 +170,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [2942-find-words-containing-character](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
