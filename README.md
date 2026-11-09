@@ -157,6 +157,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
@@ -228,6 +229,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
