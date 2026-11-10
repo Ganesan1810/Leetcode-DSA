@@ -153,6 +153,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -229,6 +230,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
@@ -241,6 +243,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0015-3sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -288,6 +291,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -335,4 +339,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
