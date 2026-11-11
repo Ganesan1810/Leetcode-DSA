@@ -170,6 +170,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -278,6 +279,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
