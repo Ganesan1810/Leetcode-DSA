@@ -226,6 +226,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
@@ -280,6 +281,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -349,4 +351,12 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
