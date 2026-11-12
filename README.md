@@ -172,6 +172,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2057-smallest-index-with-equal-value](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
