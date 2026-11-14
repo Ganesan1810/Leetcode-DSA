@@ -165,6 +165,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0162-find-peak-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -342,6 +343,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
