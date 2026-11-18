@@ -286,6 +286,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0151-reverse-words-in-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -329,6 +330,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Enumeration
