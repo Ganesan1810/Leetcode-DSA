@@ -184,6 +184,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [2942-find-words-containing-character](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2942-find-words-containing-character/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
