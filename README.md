@@ -244,6 +244,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0053-maximum-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -262,6 +263,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0443-string-compression/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -292,6 +294,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
