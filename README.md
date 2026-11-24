@@ -166,6 +166,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0169-majority-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
@@ -259,6 +260,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0088-merge-sorted-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0443-string-compression/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
