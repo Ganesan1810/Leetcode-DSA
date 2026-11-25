@@ -169,6 +169,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0283-move-zeroes](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -341,6 +342,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
