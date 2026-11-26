@@ -176,6 +176,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0918-maximum-sum-circular-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2057-smallest-index-with-equal-value](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -204,6 +205,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2578-split-with-minimum-sum/) | Easy |
@@ -266,6 +268,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0345-reverse-vowels-of-a-string](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -310,6 +313,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0169-majority-element/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Stack
