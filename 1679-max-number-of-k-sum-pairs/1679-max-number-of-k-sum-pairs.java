@@ -38,8 +38,6 @@ class Solution {
             else right--;
         }
         return count;
-
-
         
     }
 }
