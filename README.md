@@ -289,6 +289,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -398,4 +399,8 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
