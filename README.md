@@ -171,6 +171,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0912-sort-an-array](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -367,6 +368,7 @@ It motivates me to keep solving more problems and improving my coding skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Ganesan1810/Leetcode-DSA/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
